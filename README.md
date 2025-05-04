@@ -1,1 +1,1 @@
-*FILE_DIR* needs to be adjusted in QLearningRobot class
+*BASE_DIR* needs to be adjusted in QLearningRobot class
